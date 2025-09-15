@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahran Febrian Nugraha</h1>
-<h3 align="center">Keep learning to become a Software Engineer.</h3>
+<h3 align="center">Want to be a software engineer.</h3>
 
 - 🔭 I’m currently Studying at **Jenderal Soedirman University, Faculty of Engineering, Department of Informatics Engineering, Informatics Study Program**
 
